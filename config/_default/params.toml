@@ -18,7 +18,7 @@ subtitle = "Atpakaļ pie saknēm"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/ava1.jpg"
+src = "img/avat2.jpg"
 
 [article]
 headingAnchor = false
