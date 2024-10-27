@@ -1,0 +1,66 @@
+toggleMenu:
+    other: Pārslēgt izvēlni
+
+darkMode:
+    other: Tumšais režīms
+
+list:
+    page:
+        one: "{{ .Count }} lapa"
+        other: "{{ .Count }} lapas"
+
+    section:
+        other: Sadaļa
+
+    subsection:
+        one: Apakšsadaļa
+        other: Apakšsadaļas
+
+article:
+    back:
+        other: Atpakaļ
+
+    tableOfContents:
+        other: Satura rādītājs
+
+    relatedContent:
+        other: Saistītais saturs
+
+    lastUpdatedOn:
+        other: Pēdējoreiz atjaunots
+
+    readingTime:
+        one: "{{ .Count }} minūte lasīšanai"
+        other: "{{ .Count }} minūtes lasīšanai"
+
+notFound:
+    title:
+        other: Nav atrasts
+
+    subtitle:
+        other: Šī lapa neeksistē
+
+widget:
+    archives:
+        title:
+            other: Arhīvi
+
+        more:
+            other: Vairāk
+
+    tagCloud:
+        title:
+            other: Tagi
+    categoriesCloud:
+        title:
+            other: Kategorijas
+
+search:
+    title:
+        other: Meklēt
+
+    placeholder:
+        other: Rakstiet kaut ko...
+
+    resultTitle:
+        other: "#PAGES_COUNT lapas (#TIME_SECONDS sekundes)"

@@ -1,5 +1,5 @@
 ---
-title: "Meklēt"
+title: "Search"
 slug: "search"
 layout: "search"
 outputs:
