@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        name: Sākums
+        name: Sākumlapa
         weight: 1
         params:
             icon: home
