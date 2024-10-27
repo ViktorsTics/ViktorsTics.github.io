@@ -104,7 +104,7 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = "https://og644nsf.api.lncldglobal.com"
+serverURL = "https://my-rep-wine.vercel.app"
 lang = ""
 visitor = ""
 avatar = ""
