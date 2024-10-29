@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4fb10dcf21becb45",
+        "id": "edb864b54d048876",
         "type": "tabs",
         "children": [
           {
-            "id": "7232314928d75b6d",
+            "id": "01d0b3da4898a307",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/hello-world/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: PX",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/markdown-syntax/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
@@ -162,53 +157,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7232314928d75b6d",
+  "active": "0117d89c41509fdc",
   "lastOpenFiles": [
-    "public/img/avat6_hu14239940272138584744.jpg",
-    "resources/_gen/images/img/avat6_hu14239940272138584744.jpg",
-    "public/img/avat5_hu1101976292831529608.jpg",
-    "resources/_gen/images/img/avat5_hu1101976292831529608.jpg",
-    "public/img/avat4_hu9862313136934858204.jpg",
-    "resources/_gen/images/img/avat4_hu9862313136934858204.jpg",
-    "public/img/avat3_hu13242608112746349646.jpg",
-    "resources/_gen/images/img/avat3_hu13242608112746349646.jpg",
-    "public/img/avat2_hu16431326324635450321.jpg",
-    "resources/_gen/images/img/avat2_hu16431326324635450321.jpg",
-    "public/img/avat1_hu5795506743975201271.jpg",
-    "public/about/index.html",
-    "public/about",
-    "public/contact/index.html",
-    "public/contact",
-    "public/about-hugo/index.html",
-    "public/about-hugo",
-    "public/about-us/index.html",
-    "public/about-us",
+    "public/he/tags/page/1/index.html",
+    "public/he/categories/page/1/index.html",
+    "public/he/page/1/index.html",
+    "public/he/tags/page/1",
+    "public/he/categories/page/1",
+    "public/he/tags/page",
+    "public/he/page/1",
+    "public/he/tags/index.xml",
+    "public/he/tags/index.html",
+    "public/he/categories/page",
+    "public/he/categories/index.xml",
+    "public/about/PXL_20241009_155553366_hu9827089764012896893.jpg",
+    "public/about/PXL_20241009_155553366_hu4774290856172355529.jpg",
+    "resources/_gen/images/about/PXL_20241009_155553366_hu9827089764012896893.jpg",
+    "resources/_gen/images/about/PXL_20241009_155553366_hu4774290856172355529.jpg",
+    "content/page/about/PXL_20241009_155553366.jpg",
+    "public/about/PXL_20241009_155553366.jpg",
     "content/page/about/index.md",
-    "public/page/about/index",
-    "public/page/about",
-    "content/post/karogs/index.uk.md",
-    "content/post/karogs/index.ru.md",
-    "content/post/karogs/index.en.md",
-    "content/post/karogs/index.md",
-    "content/post/hello-world/index.md",
-    "content/categories/valsts/_index.md",
-    "content/categories/example-category/_index.md",
-    "content/post/hello-world/index.en.md",
-    "content/post/markdown-syntax/index.md",
-    "content/_index.md",
+    "content/post/latvijas-pilis/index.md",
     "content/page/search/index.uk.md",
     "content/page/search/index.ru.md",
-    "content/page/search/index.en.md",
     "content/page/search/index.md",
-    "content/page/links/index.md",
-    "content/page/links/index.en.md",
-    "content/page/links/index.ru.md",
-    "content/page/links/index.uk.md",
-    "content/page/archives/index.uk.md",
-    "content/page/archives/index.ru.md",
-    "content/page/archives/index.en.md",
-    "content/page/archives/index.md",
-    "content/_index.ru.md",
-    "content/_index.uk.md"
+    "content/page/search/index.en.md",
+    "public/p/latvijas-pilis/castle1_hu15118089838045482098.jpg",
+    "public/p/latvijas-pilis/castle1_hu8758750538896429767.jpg",
+    "resources/_gen/images/p/latvijas-pilis/castle1_hu15118089838045482098.jpg",
+    "resources/_gen/images/p/latvijas-pilis/castle1_hu8758750538896429767.jpg",
+    "content/post/saimniecība/index.md",
+    "content/post/mežsaimniecība/index.md",
+    "content/post/Untitled.md",
+    "content/_index.md",
+    "content/post/shortcodes/index.md",
+    "content/categories/Dzīve/_index.md",
+    "content/categories/example-category/_index.md",
+    "content/categories/Ģeogrāfija/_index.md",
+    "content/post/ezeri-un-upes/index.md",
+    "content/post/himna/index.md",
+    "content/post/administratīvais-iedalījums/index.md",
+    "content/post/nauda/index.md",
+    "content/post/svētki/index.md",
+    "content/post/vispārīga-informācija/index.md",
+    "content/post/prievārdi/index.md",
+    "content/post/satversme/index.md",
+    "content/post/hello-world/index.md",
+    "content/post/karogs/index.md",
+    "content/post/karogs/index.uk.md"
   ]
 }

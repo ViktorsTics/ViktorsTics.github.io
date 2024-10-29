@@ -34,7 +34,7 @@ The first Latvian national flag made of fabric was created by a simple teacher, 
 The Cēsis History and Art Museum has preserved the first version of the flag. Its selection was not accidental. First, Cēsis is Jānis’s hometown. Second, the Livonian Chronicle of Events from 1279 states that soldiers with the red-white-red flag came from Cēsis.
 
 
-![](pirmskarogs.png)
+![](content/post/karogs/pirmskarogs.png)
 In various regions of Latvia, Jānis’s flag underwent changes:
 
 - images of a heart pierced by a sword were added, along with various ornaments;

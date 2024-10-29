@@ -34,7 +34,7 @@ Pirmo latviešu tautas karogu no auduma izgatavoja parasts skolotājs Jānis Lap
 Cēsu vēstures un mākslas muzejs ir saglabājis pirmo karoga variantu. Tas tika izvēlēts ne nejauši. Pirmkārt, Cēsis ir Jāņa dzimtā pilsēta. Otrkārt, Livonijas Atskaņu hronikā no 1279. gada ir teikts, ka karavīri ar sarkanbaltsarkano karogu nāca no Cēsīm.
 
 
-![](pirmskarogs.png)
+![](content/post/karogs/pirmskarogs.png)
 Dažādos Latvijas reģionos Jāņa izdomāto karogu mainīja:
 
 - pievienoja attēlu ar sirdi, ko caururbis zobens, dažādus ornamentus;

@@ -1,21 +1,20 @@
 toggleMenu:
-    other: Показати меню
+    other: Меню
 
 darkMode:
-    other: Темна тема
+    other: Темний режим
 
 list:
     page:
         one: "{{ .Count }} сторінка"
         few: "{{ .Count }} сторінки"
-        other: "{{ .Count }} сторінок"
 
     section:
-        other: Секція
+        other: Розділ
 
     subsection:
-        one: Підсекція
-        other: Підсекції
+        one: Підрозділ
+        other: Підрозділи
 
 article:
     back:
@@ -28,11 +27,11 @@ article:
         other: Схожі матеріали
 
     lastUpdatedOn:
-        other: Востаннє оновлено
+        other: Останнє оновлення
 
     readingTime:
-        one: "Час читання: {{ .Count }} хв"
-        other: "Час читання: {{ .Count }} хв"
+        one: "Час читання: {{ .Count }} хвилина"
+        other: "Час читання: {{ .Count }} хвилин"
 
 notFound:
     title:
@@ -44,7 +43,7 @@ notFound:
 widget:
     archives:
         title:
-            other: Архіви
+            other: Архів
 
         more:
             other: Більше
@@ -52,7 +51,11 @@ widget:
     tagCloud:
         title:
             other: Теґи
+    categoriesCloud:
+        title:
+            other: Категорії
 
+            
 search:
     title:
         other: Пошук

@@ -1,5 +1,5 @@
 toggleMenu:
-    other: Pārslēgt izvēlni
+    other: Izvēlne
 
 darkMode:
     other: Tumšais režīms
@@ -27,11 +27,11 @@ article:
         other: Saistītais saturs
 
     lastUpdatedOn:
-        other: Pēdējoreiz atjaunots
+        other: Pēdējo reizi atjaunināts
 
     readingTime:
-        one: "{{ .Count }} minūte lasīšanai"
-        other: "{{ .Count }} minūtes lasīšanai"
+        one: "Lasīšanas laiks: {{ .Count }} minūte"
+        other: "Lasīšanas laiks: {{ .Count }} minūtes"
 
 notFound:
     title:
@@ -43,24 +43,24 @@ notFound:
 widget:
     archives:
         title:
-            other: Arhīvi
+            other: Arhīvs
 
         more:
             other: Vairāk
 
     tagCloud:
         title:
-            other: Tagi
+            other: Tēmas
     categoriesCloud:
         title:
             other: Kategorijas
 
 search:
     title:
-        other: Meklēt
+        other: Meklēšana
 
     placeholder:
-        other: Rakstiet kaut ko...
+        other: Ierakstiet kaut ko...
 
     resultTitle:
         other: "#PAGES_COUNT lapas (#TIME_SECONDS sekundes)"

@@ -1,5 +1,5 @@
 toggleMenu:
-    other: Показать/скрыть меню
+    other: Меню
 
 darkMode:
     other: Тёмный режим
@@ -7,51 +7,60 @@ darkMode:
 list:
     page:
         one: "{{ .Count }} страница"
-        few: "{{ .Count }} страницы"
-        many: "{{ .Count }} страниц"
-        other: "{{ .Count }} страниц"
+        other: "{{ .Count }} страницы"
 
     section:
         other: Раздел
 
     subsection:
         one: Подраздел
-        few: Подразделы
-        many: Подразделы
         other: Подразделы
 
 article:
     back:
         other: Назад
-    relatedContent:
-        other: Также рекомендуем
-    lastUpdatedOn:
-        other: Обновлено
-    tableOfContents: 
+
+    tableOfContents:
         other: Содержание
-    readingTime: 
-        other: "Время чтения: {{ .Count }} мин."
+
+    relatedContent:
+        other: Похожие материалы
+
+    lastUpdatedOn:
+        other: Последнее обновление
+
+    readingTime:
+        one: "Время чтения: {{ .Count }} минута"
+        other: "Время чтения: {{ .Count }} минут"
 
 notFound:
     title:
         other: Не найдено
+
     subtitle:
-        other: Запрашиваемая страница не существует
+        other: Эта страница не существует
 
 widget:
     archives:
         title:
-            other: Архивы
+            other: Архив
+
         more:
             other: Ещё
+
     tagCloud:
         title:
             other: Теги
+    categoriesCloud:
+        title:
+            other: Категории
 
 search:
     title:
         other: Поиск
+
     placeholder:
-        other: Введите что-нибудь...
+        other: Введите запрос...
+
     resultTitle:
-        other: "Найдено #PAGES_COUNT страниц (за #TIME_SECONDS с.)"
+        other: "#PAGES_COUNT страниц (#TIME_SECONDS секунд)"
