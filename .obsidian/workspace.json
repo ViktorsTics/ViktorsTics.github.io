@@ -11,10 +11,14 @@
             "id": "01d0b3da4898a307",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/post/himna/index.ru.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index.ru"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: PX",
+                "query": "file:no",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0117d89c41509fdc",
+  "active": "01d0b3da4898a307",
   "lastOpenFiles": [
+    "content/post/himna/index.en.md",
+    "content/post/himna/index.ru.md",
+    "content/post/himna/index.uk.md",
+    "content/post/himna/index.md",
+    "Pasted image 20241028100150.png",
     "public/he/tags/page/1/index.html",
     "public/he/categories/page/1/index.html",
     "public/he/page/1/index.html",
@@ -169,7 +178,6 @@
     "public/he/tags/index.xml",
     "public/he/tags/index.html",
     "public/he/categories/page",
-    "public/he/categories/index.xml",
     "public/about/PXL_20241009_155553366_hu9827089764012896893.jpg",
     "public/about/PXL_20241009_155553366_hu4774290856172355529.jpg",
     "resources/_gen/images/about/PXL_20241009_155553366_hu9827089764012896893.jpg",
@@ -185,7 +193,6 @@
     "public/p/latvijas-pilis/castle1_hu15118089838045482098.jpg",
     "public/p/latvijas-pilis/castle1_hu8758750538896429767.jpg",
     "resources/_gen/images/p/latvijas-pilis/castle1_hu15118089838045482098.jpg",
-    "resources/_gen/images/p/latvijas-pilis/castle1_hu8758750538896429767.jpg",
     "content/post/saimniecība/index.md",
     "content/post/mežsaimniecība/index.md",
     "content/post/Untitled.md",
@@ -195,15 +202,12 @@
     "content/categories/example-category/_index.md",
     "content/categories/Ģeogrāfija/_index.md",
     "content/post/ezeri-un-upes/index.md",
-    "content/post/himna/index.md",
     "content/post/administratīvais-iedalījums/index.md",
     "content/post/nauda/index.md",
     "content/post/svētki/index.md",
     "content/post/vispārīga-informācija/index.md",
     "content/post/prievārdi/index.md",
     "content/post/satversme/index.md",
-    "content/post/hello-world/index.md",
-    "content/post/karogs/index.md",
-    "content/post/karogs/index.uk.md"
+    "content/post/hello-world/index.md"
   ]
 }
