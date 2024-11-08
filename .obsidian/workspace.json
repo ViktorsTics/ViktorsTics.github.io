@@ -4,18 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "edb864b54d048876",
+        "id": "f985f70412e07492",
         "type": "tabs",
         "children": [
           {
-            "id": "01d0b3da4898a307",
+            "id": "b74c605479ae2538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/himna/index.ru.md",
+                "file": "content/post/administratīvais-iedalījums/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "000d439ccdfbd343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/administratīvais-iedalījums/index.ru.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index.ru"
@@ -77,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "858c393cb8be36b6",
@@ -161,11 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01d0b3da4898a307",
+  "active": "b74c605479ae2538",
   "lastOpenFiles": [
-    "content/post/himna/index.en.md",
-    "content/post/himna/index.ru.md",
+    "content/post/administratīvais-iedalījums/index.ru.md",
+    "content/post/administratīvais-iedalījums/index.md",
     "content/post/himna/index.uk.md",
+    "content/post/himna/index.ru.md",
+    "content/post/himna/index.en.md",
     "content/post/himna/index.md",
     "Pasted image 20241028100150.png",
     "public/he/tags/page/1/index.html",
@@ -202,12 +219,10 @@
     "content/categories/example-category/_index.md",
     "content/categories/Ģeogrāfija/_index.md",
     "content/post/ezeri-un-upes/index.md",
-    "content/post/administratīvais-iedalījums/index.md",
     "content/post/nauda/index.md",
     "content/post/svētki/index.md",
     "content/post/vispārīga-informācija/index.md",
     "content/post/prievārdi/index.md",
-    "content/post/satversme/index.md",
-    "content/post/hello-world/index.md"
+    "content/post/satversme/index.md"
   ]
 }
