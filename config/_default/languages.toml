@@ -1,11 +1,14 @@
 # Rename this file to languages.toml to enable multilingual support
 [en]
-languageName = "Angļu"
+languageName = <img
+  src="https://flagcdn.com/gb.svg"
+  width="30"
+  alt="United Kingdom">
 languagedirection = "ltr"
 title = "Kungs"
 weight = 2
 [lv]
-languageName = "🇱🇻"
+languageName = "<img src='https://flagcdn.com/20x15/lv.png'"
 languagedirection = "2tr"
 title = "Kungs"
 weight = 1
