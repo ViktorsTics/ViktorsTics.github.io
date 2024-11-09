@@ -26,13 +26,13 @@ date: 2024-10-26
 
 ## Terminu skaidrojums
 
-1. **Novads** –  это крупная административная единица в Латвии, схожая с областями или регионами в других странах. **Novadi** включают в себя несколько городов и волостей (pagasti), а также другие более мелкие населённые пункты. Пример: **Kuldīgas novads** есть Kuldīgas pilsēta и Scrunda, а также Alsungas pagasts, в котором можно найти Alsunga (центр) и Reģi (ciems).
+- **Novads** – ir liela administratīvā vienība Latvijā, līdzīga apgabaliem vai reģioniem citās valstīs. **Novadi** ietver vairākas pilsētas un pagastus, kā arī citus mazākus apdzīvotos punktus. Piemēram, **Kuldīgas novads** sastāv no Kuldīgas pilsētas un Skrundas, kā arī Alsungas pagasta, kurā atrodas Alsunga (centrs) un Reģi (ciems).
 
-2. **Pagasts** - это административная единица ниже уровня **novads**, которая обычно включает сельские территории или небольшие поселения. **Pagasts** аналогичен муниципальным районам или сельским округам в других странах. 
+- **Pagasts** – ir administratīva vienība zem **novads** līmeņa, kas parasti ietver lauku teritorijas vai mazākus ciematus. **Pagasts** ir līdzīgs pašvaldību rajoniem vai lauku novadiem citās valstīs.
 
-3. **Pilsēta** – это самостоятельная административная единица, которая может быть частью **novads** или действовать как отдельная административная единица. Крупные города, такие как Рига или Лиепая, имеют свой административный статус.
+- **Pilsēta** – ir patstāvīga administratīvā vienība, kas var būt daļa no **novads** vai darboties kā atsevišķa administratīva vienība. Lielākas pilsētas, piemēram, Rīga vai Liepāja, ir ar savu administratīvo statusu.
 
-4. **Pilsētas novads** – это район, который включает в себя как городские, так и пригородные территории. Такие районы включают один крупный город и прилегающие к нему территории.
+- **Pilsētas novads** – ir novads, kas ietver gan pilsētas, gan piepilsētas teritorijas. Šādi novadi ietver vienu lielu pilsētu un tai piegulošās teritorijas.
 ## Novadi
 
 | Novads                                                                                           | Ģerbonis                        | Pilsetas                                                                                                                  | Iedzīvotāju  skaits (2024) |
@@ -76,8 +76,6 @@ date: 2024-10-26
 
 ## Vēsturiskās zemes
 ![](vēstur.png)
-
-### Simboli
 
 | Novads                                                       | Ģerbonis                                                                                                                                                                                                             | Karogs                                                                                                                                                                                                       |
 | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
