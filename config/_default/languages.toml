@@ -1,11 +1,11 @@
 # Rename this file to languages.toml to enable multilingual support
 [en]
-languageName = "Angļu"
+languageName = "Angļu 🇱🇻"
 languagedirection = "ltr"
 title = "Kungs"
 weight = 2
 [lv]
-languageName = "<img src='https://flagcdn.com/20x15/lv.png'"
+languageName = "Latviešū \u{1F1F1}\u{1F1FB}"
 languagedirection = "2tr"
 title = "Kungs"
 weight = 1
