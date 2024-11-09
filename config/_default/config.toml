@@ -3,6 +3,8 @@ baseurl = "https://ViktorsTics.github.io"
 languageCode = "lv"
 title = "Testik"
 
+enableEmoji = true
+
 
 # GA Tracking ID
 googleAnalytics = "G-HHPZKJLSSH"

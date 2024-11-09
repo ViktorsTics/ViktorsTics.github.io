@@ -1,7 +1,4 @@
 # Rename this file to languages.toml to enable multilingual support
-[enableEmoji]
-enabled = true
-
 [en]
 languageName = "Angļu"
 languagedirection = "ltr"
