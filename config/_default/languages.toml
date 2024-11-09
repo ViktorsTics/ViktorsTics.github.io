@@ -1,11 +1,11 @@
 # Rename this file to languages.toml to enable multilingual support
 [en]
-languageName = "Angļu 🇱🇻"
+languageName = "Angļu"
 languagedirection = "ltr"
 title = "Kungs"
 weight = 2
 [lv]
-languageName = "Latviešū \u{1F1F1}\u{1F1FB}"
+languageName = "Latviešū \uD83C\uDDF1\uD83C\uDDFB"
 languagedirection = "2tr"
 title = "Kungs"
 weight = 1
