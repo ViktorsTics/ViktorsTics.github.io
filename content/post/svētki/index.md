@@ -9,7 +9,7 @@ tags:
   - svētki
 ---
 > Ja svētku dienas — 4. maijs, Vispārējo latviešu Dziesmu un deju svētku noslēguma diena un 18. novembris — iekrīt sestdienā vai svētdienā, nākamo darbdienu nosaka par brīvdienu.
-# Svētku dienas
+## Svētku dienas
 1.janvāris – Jaungada diena 
 - 
 1.maijs – Latvijas Republikas Satversmes sapulces sasaukšanas diena
@@ -39,7 +39,7 @@ Vispārējo latviešu Dziesmu un deju svētku noslēguma diena
 31.decembris – Vecgada diena
  - 
 ![](images/izruna.png)
-# Latvijas vēstures notikumu atcere
+## Latvijas vēstures notikumu atcere
 20.janvāris – 1991. gada barikāžu aizstāvju atceres diena
 - 1991. gada 20. janvāra uzbrukumā tika nošauti pieci un ievainoti 13 cilvēki. Kopumā Padomju Sociālistisko Republiku Savienības (PSRS) varasiestāžu uzbrukumu Latvijas Republikas iestādēm un neatkarības un demokrātijas aizstāvjiem dzīvību zaudēja deviņi Latvijas neatkarības aizstāvji, 318 cilvēki tika atzīti par cietušajiem. Tas kļuva arī par simboliskāko Latvijas tautas nevardarbīgās pretošanās piemēru ceļā uz valstiskās neatkarības atjaunošanu.
 26.janvāris – Latvijas Republikas starptautiskā (de iure) atzīšanas diena
@@ -77,7 +77,7 @@ Vispārējo latviešu Dziesmu un deju svētku noslēguma diena
 ![](images/lacdiena3.png)
   Decembra pirmā svētdiena – pret latviešu tautu vērstā totalitārā komunistiskā režīma genocīda upuru piemiņas diena
 - Хотя чётких правил нету
-# Sabiedrības grupu godināšana un vērtību izcelšana
+## Sabiedrības grupu godināšana un vērtību izcelšana
 9.maijs – Eiropas diena
 - 
 15.maijs – Starptautiskā ģimenes diena
@@ -92,7 +92,7 @@ Septembra otrā svētdiena – Tēva diena
 - 
 22.septembris – Baltu vienības diena
 - 
-# Profesiju svētki
+## Profesiju svētki
 17.maijs – Ugunsdzēsēju un glābēju diena
 - 
 Jūnija trešā svētdiena – Medicīnas darbinieku diena
