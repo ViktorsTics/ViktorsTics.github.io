@@ -52,8 +52,8 @@ tags:
 - Этот памятный день о том, как в ночь на 17 июня 1940 года, войска тоталитарного советского режима внезапно и вероломно напали на Латвию. Вскоре был выдвинут ультиматум, введены оккупационные войска и сменено правительство. С того момента по 21 августа 1991 – Латвия находилась под советской оккупацией, которая сопровождалась репрессиями, насилием и попытками искоренить латышскую идентичность. 
   Мы должны помнить о том, через какую боль и страдания прошли наши предки, чтить их память и ценить самоё дорогое, что у нас есть - свободу.
   _В конце марта 2004 года Латвия стала частью Североатлантического альянса и начала активно развивать военное сотрудничество, обеспечивая тем самым гарантии безопасности. Больше никто не посмеет прийти на нашу землю._
-![[Pasted image 20241123150024.png]]
-![](latvijaunnato.png)
+![](images/sovokebany.png)
+![](images/latvijaunnato.png)
 ## 22.jūnijs – Varoņu piemiņas diena (Cēsu kaujas atceres diena)
 - Atceres pasākumi kritušo karavīru piemiņai Amatā, Priekuļos, Pārgaujā un Cēsīs. Piedalās arī Igaunijas vēstnieks vai kāda no Igaunijas augstākajām valsts amatpersonām.
 ![](images/cesus.jpg)
@@ -74,17 +74,30 @@ tags:
 - Хотя чётких правил нету
 # Sabiedrības grupu godināšana un vērtību izcelšana
 ## 9.maijs – Eiropas diena
+- 
 ## 15.maijs – Starptautiskā ģimenes diena
+- 
 ## 1.jūnijs – Starptautiskā bērnu aizsardzības diena
+- 
 ## Septembra otrā svētdiena – Tēva diena
+- 
 ## 1.oktobris – Starptautiskā senioru diena
+- 
 ## 1.septembris – Zinību diena
+- 
 ## 22.septembris – Baltu vienības diena
+- 
 # Profesiju svētki
 ## 17.maijs – Ugunsdzēsēju un glābēju diena
+- 
 ## Jūnija trešā svētdiena – Medicīnas darbinieku diena
+- 
 ## Jūlija otrā sestdiena – Jūras svētku diena
+- 
 ## Oktobra pirmā svētdiena – Skolotāju diena
+- 
 ## 7.novembris – Robežsargu diena
+- 
 ## 5.decembris – Policijas darbinieku diena
+- 
 

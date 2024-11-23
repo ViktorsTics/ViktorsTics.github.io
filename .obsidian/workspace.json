@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8795074260dea521",
+        "id": "8105baa077e5b530",
         "type": "tabs",
         "children": [
           {
-            "id": "eec9927bc948404e",
+            "id": "7bd7565631febda2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/svētki/index.md",
+                "file": "content/post/latvijas-pilis/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/svētki/index.md",
+                "file": "content/post/latvijas-pilis/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/markdown-syntax/index.md",
+                "file": "content/post/latvijas-pilis/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,18 +139,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/svētki/index.md"
+                "file": "content/post/latvijas-pilis/index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,20 +163,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c4b126d09f1efb9",
+  "active": "7bd7565631febda2",
   "lastOpenFiles": [
-    "Pasted image 20241110192825.png",
-    "content/post/svētki/images/lacdiena3.png",
+    "content/post/latvijas-pilis/images/Stāmerienas.png",
+    "content/post/latvijas-pilis/index.md",
+    "content/post/latvijas-pilis/images/Lielstraupes.png",
+    "content/post/latvijas-pilis/images/Rundāles.png",
+    "content/post/latvijas-pilis/images/Jaunpils.png",
+    "content/post/latvijas-pilis/images/Jaunmoku.png",
+    "content/post/latvijas-pilis/images/Ēdoles.png",
+    "content/post/latvijas-pilis/images/cevains.png",
+    "content/post/latvijas-pilis/images/Cēsu.png",
+    "content/post/latvijas-pilis/images/Bauskas.png",
+    "content/post/latvijas-pilis/images/Alūksnes.png",
+    "README.md",
+    "ld",
     "content/post/svētki/index.md",
-    "content/post/svētki/images/lacdiena2.jpg",
-    "content/post/svētki/images/lacdiena1.jpg",
-    "5178102776_c0b7b0eaa5_c 1.jpg",
-    "content/post/svētki/images/cesus.jpg",
-    "content/post/svētki/images/latvijaunnato.png",
-    "Pasted image 20241123150024.png",
-    "content/post/svētki/images/latgalia.png",
-    "content/post/svētki/images/izruna.png",
-    "content/post/svētki/images/fakels.png",
+    "content/post/latvija/index.md",
+    "content/post/latvijas-pilis/images",
+    "content/post/riga/index.md",
     "content/post/svētki/images",
     "content/post/svētki/index.ru.md",
     "content/post/svētki/index.en.md",
@@ -186,7 +192,6 @@
     "content/post/satversme/index.uk.md",
     "content/post/saimniecība/index.md",
     "content/post/saimniecība/index.ru.md",
-    "content/post/riga/index.md",
     "content/post/administratīvais-iedalījums/index.md",
     "content/_index.uk.md",
     "content/_index.ru.md",
@@ -198,17 +203,12 @@
     "content/post/mežsaimniecība/index.en.md",
     "content/post/mežsaimniecība/index.uk.md",
     "content/post/mežsaimniecība/index.ru.md",
-    "content/post/mežsaimniecība/index.md",
-    "content/post/latvija/index.md",
-    "content/post/latvijas-pilis/index.md",
     "content/post/latvija/images",
     "content/post/latvija",
     "content/post/riga/images",
     "content/post/riga",
     "public/he/tags/page/1/index.html",
     "public/he/categories/page/1/index.html",
-    "public/he/page/1/index.html",
-    "public/he/tags/page/1",
-    "public/he/categories/page/1"
+    "public/he/page/1/index.html"
   ]
 }
