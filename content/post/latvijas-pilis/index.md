@@ -11,20 +11,20 @@ Pilis Latvijā, kā kalni Melnkalnē
 1. Cesvaines pils
 ![](images/cevains.png)
 2. Rundāles pils
-![](Rundāles.png)
+![](images/Rundāles.png)
 3. Stāmerienas pils
-![](Stāmerienas.png)
+![](images/Stāmerienas.png)
 4. Jaunmoku pils
-![](Jaunmoku.png)
+![](images/Jaunmoku.png)
 5. Cēsu viduslaiku pils
-![](Cēsu.png)
+![](images/Cēsu.png)
 6. Alūksnes Jaunā pils
-![](Alūksnes.png)
+![](images/Alūksnes.png)
 7. Jaunpils pils
-![](Jaunpils.png)
+![](images/Jaunpils.png)
 8. Bauskas pils
 ![](images/Bauskas.png)
 9. Lielstraupes pils
-![](Lielstraupes.png)
+![](images/Lielstraupes.png)
 10. Ēdoles bīskapa pils
-![](Ēdoles.png)
+![](images/Ēdoles.png)
