@@ -11,13 +11,32 @@
             "id": "d9975a219e4b664b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/post/svētki/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
+            }
+          },
+          {
+            "id": "618e8b6149f66673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/svētki/index.ru.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index.ru"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5084800720215,
-    "collapsed": true
+    "width": 345.5084800720215
   },
   "right": {
     "id": "858c393cb8be36b6",
@@ -90,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/svētki/index.ru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index.ru"
             }
           },
           {
@@ -108,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/svētki/index.ru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing Links"
+              "title": "Outgoing links from index.ru"
             }
           },
           {
@@ -133,9 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "content/post/svētki/index.ru.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index.ru"
             }
           }
         ],
@@ -155,8 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9975a219e4b664b",
+  "active": "618e8b6149f66673",
   "lastOpenFiles": [
+    "content/post/svētki/index.en.md",
+    "content/post/svētki/index.uk.md",
+    "content/post/svētki/index.ru.md",
     "content/post/svētki/index.md",
     "content/post/latvijas-pilis/index.md",
     "content/post/latvijas-pilis/images/Stāmerienas.png",
@@ -175,9 +200,6 @@
     "content/post/latvijas-pilis/images",
     "content/post/riga/index.md",
     "content/post/svētki/images",
-    "content/post/svētki/index.ru.md",
-    "content/post/svētki/index.en.md",
-    "content/post/svētki/index.uk.md",
     "content/post/satversme/index.md",
     "content/post/satversme/index.en.md",
     "content/post/satversme/index.ru.md",
