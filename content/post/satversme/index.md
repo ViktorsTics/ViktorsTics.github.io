@@ -1,5 +1,5 @@
 ---
-title: Latvijas Satversme
+title: Latvijas Republikas Satversme
 description: Satversme
 categories:
   - valsts
@@ -27,8 +27,7 @@ Latvijas Republikas Satversme
 
 Конституция Латвийской Республики
 
-- 1918.gada 18.novembrí proklamētā Latvijas valsts ir izveidota, apvienojot latviešu vēsturiskās zemes un balstoties uz latviešu nācijas negrozāmo valstsgribu un tai neatņemamām pašnoteikšanās tiesībām, lai garantētu latviešu nācijas, tās valodas un kultūras pastāvēšanu un attīstību cauri gadsimtiem, nodrošinātu Latvijas tautas un ikviena brīvību un sekmētu labklājību
-    
+- 1918.gada 18.novembrī proklamētā Latvijas valsts ir izveidota, apvienojot latviešu vēsturiskās zemes un balstoties uz latviešu nācijas negrozāmo valstsgribu un tai neatņemamām pašnoteikšanās tiesībām, lai garantētu latviešu nācijas, tās valodas un kultūras pastāvēšanu un attīstību cauri gadsimtiem, nodrošinātu Latvijas tautas un ikviena brīvību un sekmētu labklājību
     - Латвийское государство, провозглашённое 18 ноября 1918 года, создано путём объединения исторических латышских земель на основании непреложной воли латышской нации и её неотъемлемого права на самоопределение, чтобы гарантировать существование и развитие латышской нации на века, её языка и культуры, гарантировать свободу и способствовать благосостоянию народа Латвии и каждого в отдельности.
 - Latvijas tauta izcīnīja savu valsti Brīvības cīņās. Brīvi vēlētā Satversmes sapulcē tā nostiprināja valsts iekārtu un nolēma sev Satversmi.
     

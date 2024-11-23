@@ -4,9 +4,6 @@ mainSections = ["post"]
 rssFullContent = true
 favicon = "/favicon-32x32.png"
 
-[enableEmoji]
-enabled = true
-
 [footer]
 customText = ""
 

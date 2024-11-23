@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f985f70412e07492",
+        "id": "8795074260dea521",
         "type": "tabs",
         "children": [
           {
-            "id": "b74c605479ae2538",
+            "id": "eec9927bc948404e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/administratīvais-iedalījums/index.md",
+                "file": "content/post/svētki/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "000d439ccdfbd343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/administratīvais-iedalījums/index.en.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index.en"
-            }
-          },
-          {
-            "id": "96e187ca973b1d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/administratīvais-iedalījums/index.uk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index.uk"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -106,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5084800720215
   },
   "right": {
     "id": "858c393cb8be36b6",
@@ -122,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/svētki/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -167,76 +139,76 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/markdown-syntax/index.md"
+                "file": "content/post/svētki/index.md"
               },
               "icon": "lucide-list",
               "title": "Outline of index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "000d439ccdfbd343",
+  "active": "1c4b126d09f1efb9",
   "lastOpenFiles": [
-    "content/post/administratīvais-iedalījums/index.ru.md",
-    "content/post/administratīvais-iedalījums/index.en.md",
-    "content/post/administratīvais-iedalījums/index.uk.md",
+    "Pasted image 20241110192825.png",
+    "content/post/svētki/images/lacdiena3.png",
+    "content/post/svētki/index.md",
+    "content/post/svētki/images/lacdiena2.jpg",
+    "content/post/svētki/images/lacdiena1.jpg",
+    "5178102776_c0b7b0eaa5_c 1.jpg",
+    "content/post/svētki/images/cesus.jpg",
+    "content/post/svētki/images/latvijaunnato.png",
+    "Pasted image 20241123150024.png",
+    "content/post/svētki/images/latgalia.png",
+    "content/post/svētki/images/izruna.png",
+    "content/post/svētki/images/fakels.png",
+    "content/post/svētki/images",
+    "content/post/svētki/index.ru.md",
+    "content/post/svētki/index.en.md",
+    "content/post/svētki/index.uk.md",
+    "content/post/satversme/index.md",
+    "content/post/satversme/index.en.md",
+    "content/post/satversme/index.ru.md",
+    "content/post/satversme/index.uk.md",
+    "content/post/saimniecība/index.md",
+    "content/post/saimniecība/index.ru.md",
+    "content/post/riga/index.md",
     "content/post/administratīvais-iedalījums/index.md",
-    "content/post/himna/index.uk.md",
-    "content/post/himna/index.ru.md",
-    "content/post/himna/index.en.md",
-    "content/post/himna/index.md",
-    "Pasted image 20241028100150.png",
+    "content/_index.uk.md",
+    "content/_index.ru.md",
+    "content/_index.en.md",
+    "content/_index.md",
+    "content/post/vispārīga-informācija/index.md",
+    "content/post/prievārdi/index.md",
+    "content/post/nauda/index.md",
+    "content/post/mežsaimniecība/index.en.md",
+    "content/post/mežsaimniecība/index.uk.md",
+    "content/post/mežsaimniecība/index.ru.md",
+    "content/post/mežsaimniecība/index.md",
+    "content/post/latvija/index.md",
+    "content/post/latvijas-pilis/index.md",
+    "content/post/latvija/images",
+    "content/post/latvija",
+    "content/post/riga/images",
+    "content/post/riga",
     "public/he/tags/page/1/index.html",
     "public/he/categories/page/1/index.html",
     "public/he/page/1/index.html",
     "public/he/tags/page/1",
-    "public/he/categories/page/1",
-    "public/he/tags/page",
-    "public/he/page/1",
-    "public/he/tags/index.xml",
-    "public/he/tags/index.html",
-    "public/he/categories/page",
-    "public/about/PXL_20241009_155553366_hu9827089764012896893.jpg",
-    "public/about/PXL_20241009_155553366_hu4774290856172355529.jpg",
-    "resources/_gen/images/about/PXL_20241009_155553366_hu9827089764012896893.jpg",
-    "resources/_gen/images/about/PXL_20241009_155553366_hu4774290856172355529.jpg",
-    "content/page/about/PXL_20241009_155553366.jpg",
-    "public/about/PXL_20241009_155553366.jpg",
-    "content/page/about/index.md",
-    "content/post/latvijas-pilis/index.md",
-    "content/page/search/index.uk.md",
-    "content/page/search/index.ru.md",
-    "content/page/search/index.md",
-    "content/page/search/index.en.md",
-    "public/p/latvijas-pilis/castle1_hu15118089838045482098.jpg",
-    "public/p/latvijas-pilis/castle1_hu8758750538896429767.jpg",
-    "resources/_gen/images/p/latvijas-pilis/castle1_hu15118089838045482098.jpg",
-    "content/post/saimniecība/index.md",
-    "content/post/mežsaimniecība/index.md",
-    "content/post/Untitled.md",
-    "content/_index.md",
-    "content/post/shortcodes/index.md",
-    "content/categories/Dzīve/_index.md",
-    "content/categories/example-category/_index.md",
-    "content/categories/Ģeogrāfija/_index.md",
-    "content/post/ezeri-un-upes/index.md",
-    "content/post/nauda/index.md",
-    "content/post/svētki/index.md",
-    "content/post/vispārīga-informācija/index.md"
+    "public/he/categories/page/1"
   ]
 }
